@@ -4086,10 +4086,6 @@ hash = "8f48425fd0e7eb56733a7aba433e6e5575821d5c74ef9961fd24d9333cc8f692"
 metafile = true
 
 [[files]]
-file = "mods/carryon-revamped-neoforge-1.21.1-2.2.16.jar"
-hash = "d510e400952b9521943d10534b8498b42d1188fc40746e6b11d9d69613b43483"
-
-[[files]]
 file = "mods/carryon-revamped.pw.toml"
 hash = "ff3afee17cf370bc8159b0cfd780adc60ea6c8463a68149f19790fa9e229709b"
 metafile = true
@@ -4703,6 +4699,14 @@ metafile = true
 file = "mods/extendedae-plus.pw.toml"
 hash = "ecf57d5287c87fec8dea362618220eef3cd06f1860f00dc6859978298486850e"
 metafile = true
+
+[[files]]
+file = "mods/extra_mods/carryon-revamped-neoforge-1.21.1-2.2.16.jar"
+hash = "d510e400952b9521943d10534b8498b42d1188fc40746e6b11d9d69613b43483"
+
+[[files]]
+file = "mods/extra_mods/potion_combiner-1.21.1-Neoforge-1.0.0.jar"
+hash = "976862ec51386334300b72a9c25c343d12af82b9af37a8417f44093f57eac191"
 
 [[files]]
 file = "mods/falling-leaves-forge.pw.toml"
