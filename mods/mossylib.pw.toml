@@ -1,13 +1,13 @@
 name = "MossyLib"
 filename = "MossyLib-1.4.0+1.21.1+neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
-hash-format = "sha1"
-hash = "2bf614fdd8d76ee4c3c51a15d96845ad9584da95"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/ffLDUGbm/versions/fDm6GVFP/MossyLib-1.4.0%2B1.21.1%2Bneoforge.jar"
+hash-format = "sha512"
+hash = "ab8dd00ec396bd508051ea62f44170ce23afcae908353b502a56cece6c954a9aa37514bd257113556178b08a2e853c86adf5a0fb495e950d6a2247941870ebc8"
 
 [update]
-[update.curseforge]
-file-id = 8207752
-project-id = 1399257
+[update.modrinth]
+mod-id = "ffLDUGbm"
+version = "fDm6GVFP"

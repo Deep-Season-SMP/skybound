@@ -1,13 +1,13 @@
-name = "Multi Arrow Effects [Multiple Effects on One Arrow]"
+name = "Multi Arrow Effects"
 filename = "MultiArrowEffects-Neoforge-1.21.1-1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5d6d67001d723101bc55e32e8592aff2adc1081b"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/c14KjoLG/versions/nWDvK85g/MultiArrowEffects-Neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "08f1a251f9661b61314095a526028e3920abf3bdafbe6621b7225d697b1ad0e617253122a390d68768781eccc5eccaf9feb85d783290f4ee8dd6843318eefec3"
 
 [update]
-[update.curseforge]
-file-id = 7286008
-project-id = 1396590
+[update.modrinth]
+mod-id = "c14KjoLG"
+version = "nWDvK85g"

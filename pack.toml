@@ -1,11 +1,11 @@
 name = "Create Aeronautics - Skybound - Create Aeronautics & Create Addons with Quests (original)"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "92df58d398fd63ad60417582ebc31a5a537afcfe45863e0fcab3295148acefc9"
+hash = "788c1c10931654f15fe7fed50587d1a884aba2887bc46ba0fc4dd6224c354b04"
 
 [versions]
 minecraft = "1.21.1"
