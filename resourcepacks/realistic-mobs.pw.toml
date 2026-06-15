@@ -1,0 +1,13 @@
+name = "Realistic Mobs"
+filename = "Realistic Mobs - 6.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "822d4dcbf406425bd84d228b11d6b3f9c2a82459"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7890874
+project-id = 1109370

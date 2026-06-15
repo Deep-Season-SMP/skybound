@@ -1,0 +1,13 @@
+name = "Realistic Chests"
+filename = "Realistic Chests - 1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22960c0ddc700e0debf1acb70b60b751af8ab38e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7451276
+project-id = 1016013

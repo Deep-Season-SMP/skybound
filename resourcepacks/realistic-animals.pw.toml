@@ -1,0 +1,13 @@
+name = "Realistic Animals"
+filename = "Realistic Animals - 4.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cc8b58db55dd4f7e87d7b1ed58bcc37aca079686"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8114796
+project-id = 1109361

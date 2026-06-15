@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = true
+  world = rnode.thewander02.com:25578
+}
+

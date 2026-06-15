@@ -1,0 +1,13 @@
+name = "Animated Spawn Eggs"
+filename = "Animated Spawn Eggs - MC 1.21.1 - 1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21d8539ca2b09c08f8fa50bf80f4bafc93c84df6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8160404
+project-id = 1556724

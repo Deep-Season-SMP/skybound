@@ -1,0 +1,13 @@
+name = "Realistic Redstone (3D Redstone)"
+filename = "3D Redstone - MC 1.21.1 - 1.0.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "96d91271c62eef98a4d4b8004114b23dd17a0641"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8075127
+project-id = 1540629

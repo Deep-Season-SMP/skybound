@@ -1,0 +1,12 @@
+{
+  "logbegone": {
+    "phrases": [
+      "Held-angle blocked for",
+	  "[blur/]:"
+    ],
+    "regex": [
+      "Held-angle blocked for",
+	  "[blur/]:"
+    ]
+  }
+}

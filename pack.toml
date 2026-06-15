@@ -1,0 +1,12 @@
+name = "Create Aeronautics - Skybound - Create Aeronautics & Create Addons with Quests (original)"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5491c2e014182110b6e8703dde9e0547e4c397b92162a0ed8a0d90492b3cbf42"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"

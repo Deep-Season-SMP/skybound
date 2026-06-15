@@ -1,0 +1,13 @@
+name = "Realistic Ores (3D Ores)"
+filename = "3D Ores - MC 1.21.1 - 1.0.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6be9ffaf1e5f5b3f8a1391a7451c22fc039f3dd5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7810167
+project-id = 1494797
