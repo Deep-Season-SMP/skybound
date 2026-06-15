@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/release.yml"
+hash = "3ac9193908621a6790e6c77fc3f36ff1445be47d4655f7a10ebd4bd2dff8facc"
+
+[[files]]
 file = "bivrik/common.json"
 hash = "ec8f24e17b7adc3bbeddf7ceb91f82232bd71640508be87d423709727cb73af4"
 
@@ -5968,6 +5972,10 @@ metafile = true
 file = "resourcepacks/realistic-woods.pw.toml"
 hash = "869873ec91d7035c0836593b0229b79c2304506c5e9e20d7e624cd3477c92bb6"
 metafile = true
+
+[[files]]
+file = "scripts/build-release.sh"
+hash = "2dc253457ad931e66f2b2d6a6c0596936024c5a535a06375b14774159604aa53"
 
 [[files]]
 file = "servers.dat"
