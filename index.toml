@@ -4087,7 +4087,7 @@ metafile = true
 
 [[files]]
 file = "mods/carryon-revamped.pw.toml"
-hash = "ff3afee17cf370bc8159b0cfd780adc60ea6c8463a68149f19790fa9e229709b"
+hash = "931de55903911ceefb124ab4cdd960cf6afada466d047e1d501135dbf6668141"
 metafile = true
 
 [[files]]
@@ -5435,7 +5435,7 @@ metafile = true
 
 [[files]]
 file = "mods/potion-combiner.pw.toml"
-hash = "760470d3fe46404dfe1797e7c18414a110691aef7f6e949fe6e519deac0176ac"
+hash = "bd57d97f5945cba204c7ecc1aecddce3f55469cf240841f26af4f0c8aa6f6855"
 metafile = true
 
 [[files]]

@@ -3,6 +3,6 @@ filename = "potion_combiner-1.21.1-Neoforge-1.0.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Deep-Season-SMP/skybound/raw/refs/heads/main/mods/potion_combiner-1.21.1-Neoforge-1.0.0.jar"
+url = "https://github.com/Deep-Season-SMP/skybound/raw/refs/heads/main/mods/extra_mods/potion_combiner-1.21.1-Neoforge-1.0.0.jar"
 hash-format = "sha256"
 hash = "976862ec51386334300b72a9c25c343d12af82b9af37a8417f44093f57eac191"
