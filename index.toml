@@ -5431,7 +5431,7 @@ metafile = true
 
 [[files]]
 file = "mods/potion-combiner.pw.toml"
-hash = "b65164c51df8c9ff0ffc2bd42747992432fe0b67898417e98f376a54c1dc1be5"
+hash = "760470d3fe46404dfe1797e7c18414a110691aef7f6e949fe6e519deac0176ac"
 metafile = true
 
 [[files]]
