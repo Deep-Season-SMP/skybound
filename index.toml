@@ -6933,10 +6933,6 @@ hash = "869873ec91d7035c0836593b0229b79c2304506c5e9e20d7e624cd3477c92bb6"
 metafile = true
 
 [[files]]
-file = "scripts/build-release.sh"
-hash = "599ee8674154fb86f8794e1e4d9ada2e545d642314fddf46156f8d1aee90939f"
-
-[[files]]
 file = "servers.dat"
 hash = "4b8e0d7e84e86cd821ab40cd492882668b48df2935e4c2403dd7cca46ea9ab69"
 preserve = true
