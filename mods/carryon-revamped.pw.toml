@@ -1,8 +1,8 @@
 name = "Carryon Revamped"
-filename = "carryon-revamped-neoforge-1.21.1-2.2.16.jar"
+filename = "carryon-revamped-neoforge-1.21.1-2.2.17.jar"
 side = "both"
 
 [download]
-url = "https://github.com/Deep-Season-SMP/skybound/raw/refs/heads/main/mods/extra_mods/carryon-revamped-neoforge-1.21.1-2.2.16.jar"
+url = "https://github.com/Deep-Season-SMP/skybound/raw/refs/heads/main/mods/extra_mods/carryon-revamped-neoforge-1.21.1-2.2.17.jar"
 hash-format = "sha256"
-hash = "d510e400952b9521943d10534b8498b42d1188fc40746e6b11d9d69613b43483"
+hash = "d7ea5a27fafee75ab30548c22952ef6fc2f37bf3c2e27c618336539776012386"
