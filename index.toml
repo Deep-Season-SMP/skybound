@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/release.yml"
-hash = "581418c0fb0a250dc8e87eab439bc856c66793a801a1485b446f0d4e29b55fdd"
-
-[[files]]
 file = "bivrik/common.json"
 hash = "ec8f24e17b7adc3bbeddf7ceb91f82232bd71640508be87d423709727cb73af4"
 preserve = true
@@ -6939,6 +6935,11 @@ metafile = true
 [[files]]
 file = "scripts/build-release.sh"
 hash = "599ee8674154fb86f8794e1e4d9ada2e545d642314fddf46156f8d1aee90939f"
+
+[[files]]
+file = "servers.dat"
+hash = "4b8e0d7e84e86cd821ab40cd492882668b48df2935e4c2403dd7cca46ea9ab69"
+preserve = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
