@@ -1,0 +1,13 @@
+name = "CarryOn Sable Compat"
+filename = "carryonsable-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/qOASqofi/versions/OzGHDTid/carryonsable-1.0.2.jar"
+hash-format = "sha512"
+hash = "97d26369a158adc3df298c3d51c9c832747599fe77eb908be3d0fea8737672d5666fd213fd1f2ad38852e7a69c2533279d545e69765a38c719c967e2891af625"
+
+[update]
+[update.modrinth]
+mod-id = "qOASqofi"
+version = "OzGHDTid"

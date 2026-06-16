@@ -5001,7 +5001,12 @@ metafile = true
 
 [[files]]
 file = "mods/carryon-revamped.pw.toml"
-hash = "931de55903911ceefb124ab4cdd960cf6afada466d047e1d501135dbf6668141"
+hash = "bbdcce6223fca6d8b74cf5ccbcfe2a9059164695b4800120a065f2098a853791"
+metafile = true
+
+[[files]]
+file = "mods/carryon-sable-compat.pw.toml"
+hash = "9ef61caf190242ef79d1ea4e42f450a259bffaa49a6a16c73230f9ea1e424454"
 metafile = true
 
 [[files]]
