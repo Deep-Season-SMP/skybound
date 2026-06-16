@@ -6024,7 +6024,7 @@ metafile = true
 
 [[files]]
 file = "scripts/build-release.sh"
-hash = "2dc253457ad931e66f2b2d6a6c0596936024c5a535a06375b14774159604aa53"
+hash = "599ee8674154fb86f8794e1e4d9ada2e545d642314fddf46156f8d1aee90939f"
 
 [[files]]
 file = "servers.dat"
