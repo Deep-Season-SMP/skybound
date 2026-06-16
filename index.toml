@@ -5650,14 +5650,6 @@ hash = "ecf57d5287c87fec8dea362618220eef3cd06f1860f00dc6859978298486850e"
 metafile = true
 
 [[files]]
-file = "mods/extra_mods/carryon-revamped-neoforge-1.21.1-2.2.16.jar"
-hash = "d510e400952b9521943d10534b8498b42d1188fc40746e6b11d9d69613b43483"
-
-[[files]]
-file = "mods/extra_mods/potion_combiner-1.21.1-Neoforge-1.0.0.jar"
-hash = "976862ec51386334300b72a9c25c343d12af82b9af37a8417f44093f57eac191"
-
-[[files]]
 file = "mods/falling-leaves-forge.pw.toml"
 hash = "107e17092cb624d106bddc63f2165f5e0461ca910e365a864bbae4c4f0de539d"
 metafile = true
@@ -6759,7 +6751,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxy-vs.pw.toml"
-hash = "e020d316edfd3968f431bf73599172c89c04e2e440f8a08ced4d0829e5af8e68"
+hash = "c6d3e48c1e20b41848862bb1e409e660191d7145a88e3113065c17bb467013f7"
 metafile = true
 
 [[files]]
