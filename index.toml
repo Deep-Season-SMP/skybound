@@ -5095,6 +5095,11 @@ hash = "0bd662cbf05ccb9a5b9c2b00b889b2dfd8d6614a5e802de0d82c2a2e64e41d87"
 metafile = true
 
 [[files]]
+file = "mods/colorwheel.pw.toml"
+hash = "3f99808dda6b83374cea1d478e2688c69af71a7381b176d0a7df50d219e44ca9"
+metafile = true
+
+[[files]]
 file = "mods/colourful-earth.pw.toml"
 hash = "772e6a043b0ce6e613e01f486fef7f62e0927290a1f8b60f13152cd372459409"
 metafile = true
