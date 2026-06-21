@@ -5025,6 +5025,11 @@ hash = "c4caf628bdffbd3a3437dc3cbb6ece11b82f085e18d7b9810eca632e9b7ab640"
 metafile = true
 
 [[files]]
+file = "mods/carryon-sable-compat.pw.toml"
+hash = "54d905f8220965aa2cf4ddcc84b0606f3536a168de1106d6534537a34792800e"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "209446eb003bb59111833db0e0328657a9ffe7d85d6016ddf3ecfd5a2f7e13c5"
 metafile = true
