@@ -786,11 +786,6 @@ hash = "0d4971e2356a4ceabc4c4b2d69c81c2d3fbcf4b46e384423098f3856dcd2689c"
 preserve = true
 
 [[files]]
-file = "config/asyncparticles/asyncparticles-mixin.properties"
-hash = "5c51db0a446b67eefb0f568ed620c91eff8610e0577a93c9f5b33b8c1e9defbf"
-preserve = true
-
-[[files]]
 file = "config/asyncparticles/asyncparticles.json"
 hash = "46f9542ba67ee071ee27c564f7be86feda8bf09e2e885da67260551ad7b11c40"
 preserve = true
