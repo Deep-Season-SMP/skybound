@@ -786,6 +786,16 @@ hash = "0d4971e2356a4ceabc4c4b2d69c81c2d3fbcf4b46e384423098f3856dcd2689c"
 preserve = true
 
 [[files]]
+file = "config/asyncparticles/asyncparticles-mixin.properties"
+hash = "5c51db0a446b67eefb0f568ed620c91eff8610e0577a93c9f5b33b8c1e9defbf"
+preserve = true
+
+[[files]]
+file = "config/asyncparticles/asyncparticles.json"
+hash = "46f9542ba67ee071ee27c564f7be86feda8bf09e2e885da67260551ad7b11c40"
+preserve = true
+
+[[files]]
 file = "config/attributefix/aether/moa_max_jumps.json"
 hash = "f4141221feb1e43056da711fcda29f9091344a48876c62e6f1d1a61fac8af44a"
 preserve = true
@@ -4825,6 +4835,11 @@ hash = "5150d0aebd32633617c791ecf1b3665c77ce5b17c256453e9d66a7da93cff4b1"
 metafile = true
 
 [[files]]
+file = "mods/ars-sable.pw.toml"
+hash = "6f2831389ddba8705056285acea3c092eb2a80f6026ea9692f9b12ff3e1c9e03"
+metafile = true
+
+[[files]]
 file = "mods/ars-technica.pw.toml"
 hash = "130e60104ba3741895272ba1a2ccbddb0bec7476f5184a16eb36ad96dd9fc0cf"
 metafile = true
@@ -4832,6 +4847,11 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "f0aa35028d210e4c3b87e3029520dea9ead7db9d639e97faad2db374f6a9b2c1"
+metafile = true
+
+[[files]]
+file = "mods/asyncparticles.pw.toml"
+hash = "3fcc71cdad8647f8b1af3f15a5b0b3e5c8ca8d76a5ff6b0d096c880bdbc2f7d8"
 metafile = true
 
 [[files]]
@@ -5002,11 +5022,6 @@ metafile = true
 [[files]]
 file = "mods/carryon-revamped.pw.toml"
 hash = "c4caf628bdffbd3a3437dc3cbb6ece11b82f085e18d7b9810eca632e9b7ab640"
-metafile = true
-
-[[files]]
-file = "mods/carryon-sable-compat.pw.toml"
-hash = "76b54d42bd04b3e58b41d6c608ef04d6bec6011ec50208f6ad09009ccd25d40d"
 metafile = true
 
 [[files]]

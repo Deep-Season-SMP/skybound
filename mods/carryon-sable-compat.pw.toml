@@ -1,8 +1,0 @@
-name = "CarryOn Sable Compat"
-filename = "carryonsable-1.0.3.jar"
-side = "both"
-
-[download]
-url = "https://github.com/Deep-Season-SMP/skybound/raw/refs/heads/main/mods/extra_mods/carryonsable-1.0.3.jar"
-hash-format = "sha256"
-hash = "8505091204e8b7292d102e828d70ead6fb0b1ae58290574f2237f7d7225d9a64"
